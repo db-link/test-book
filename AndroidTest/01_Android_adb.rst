@@ -35,7 +35,7 @@ a. adb shell pm
 
     adb shell pm clear PackageName
 
-b. adb shell pm
+b. adb shell am
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 监控activity

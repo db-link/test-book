@@ -1,0 +1,15 @@
+alabaster
+Babel
+colorama
+docutils
+imagesize
+Jinja2
+MarkupSafe
+pip
+Pygments
+pytz
+setuptools
+six
+snowballstemmer
+Sphinx
+sphinx-rtd-theme

@@ -10,6 +10,7 @@ Android测试,发版前要对渠道版本进行渠道号验证、冒烟测试、
    :maxdepth: 1
    :numbered: 1
 
-   01_Android_Umeng_Channel_Verify
-   02_signature_verification
+   01_Android_adb.rst
+   02_Android_Umeng_Channel_Verify
+   03_signature_verification
 

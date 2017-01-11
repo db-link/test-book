@@ -11,6 +11,22 @@ adb debugging
 
     adb devices
 
+获取信息
+-----------------------------
+
+获取手机系统系的信息，包括硬件和软件
+
+.. code-block:: java
+
+	adb shell getprop
+
+> 使用adb shell getprop可以获取cpu、mem、网络信息。如：
+	adb shell getprop ro.build.version.release	#获取手机android系统版本
+	adb shell getprop ro.build.fingerprint		#获取手机品牌型号
+	adb shell getprop ro.serialno				#获取手机设备ID
+	adb shell getprop dhcp.wlan0.ipaddress		#获取当前连接的无线的ip地址
+	adb shell getprop ro.product.cpu.abilist	#获取cpu
+
 包管理
 -------------------------------
 

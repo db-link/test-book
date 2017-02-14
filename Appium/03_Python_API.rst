@@ -17,8 +17,8 @@ python查看appium webdriver help.
     	errorhandler
     	mobilecommand
     	switch_to
-   	 	webdriver
-   	 	webelement
+   	webdriver
+   	webelement
 
 Api: 元素定位
 --------------------

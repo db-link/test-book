@@ -2,9 +2,23 @@
 Appium Python Driver Api
 ==========================
 
-使用 Appium Python Client进行测试。
+使用 Appium Python Client进行测试。https://github.com/appium/python-client
 
-https://github.com/appium/python-client
+python查看appium webdriver help.
+
+.. code-block:: python
+
+	>>> from appium import webdriver
+	>>> help(webdriver)
+
+	PACKAGE CONTENTS
+    	common (package)
+    	connectiontype
+    	errorhandler
+    	mobilecommand
+    	switch_to
+   	 	webdriver
+   	 	webelement
 
 Api: 元素定位
 --------------------

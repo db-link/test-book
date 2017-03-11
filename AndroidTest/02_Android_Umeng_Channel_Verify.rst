@@ -93,4 +93,4 @@ python实现如下：
 
 **完整代码地址：**
 
-    https://github.com/midada/Android-Test/blob/master/channelverify.py
+    https://github.com/yi-heng/Android-Test/blob/master/channelverify.py
